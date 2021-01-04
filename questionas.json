@@ -1,0 +1,83 @@
+[{
+        "title": "If we want define style for an unique element, then which css selector will we use ?",
+        "answer1": "id",
+        "answer2": "class",
+        "answer3": "text",
+        "answer4": "name",
+        "right-answer": "id"
+
+    },
+    {
+        "title": "If we don't want to allow a floating div to the left side of an element, which css property will we use ?",
+        "answer1": "clear",
+        "answer2": "float",
+        "answer3": "padding",
+        "answer4": "margin",
+        "right-answer": "clear"
+
+    },
+    {
+        "title": "Suppose we want to arragnge five nos.of DIVs so that DIV4 is placed above DIV1.Nowwhich css property will we use to control the order of stack ?",
+        "answer1": "x-index",
+        "answer2": "r-index",
+        "answer3": "z-index",
+        "answer4": "h-index",
+        "right-answer": "z-index"
+
+    },
+    {
+        "title": "If we want to use a nice looking green dotted border around an image, which css property will we use?",
+        "answer1": "border-decoraition",
+        "answer2": "border-style",
+        "answer3": "border-line",
+        "answer4": "border-color",
+        "right-answer": "border-style"
+
+    },
+    {
+        "title": "When we write <img src='img.png'>, what 'img.png' inside double quote implies?",
+        "answer1": "elementB",
+        "answer2": "value",
+        "answer3": "attribute",
+        "answer4": "operator",
+        "right-answer": "attribute"
+
+    },
+    {
+        "title": " How can we write comment along with CSS code ?",
+        "answer1": "//comment//",
+        "answer2": "/comment/",
+        "answer3": "/*comment*/",
+        "answer4": "<comment>",
+        "right-answer": "/*comment*/"
+
+    },
+    {
+        "title": "Which css property you will use if you want to add some margin between a DIV's border and its inner text ",
+        "answer1": "margin",
+        "answer2": "inner-margin",
+        "answer3": "spacing",
+        "answer4": "padding",
+        "right-answer": "padding"
+
+    },
+    {
+        "title": "Which CSS property is used to control the text size of an element ?",
+        "answer1": "font-size",
+        "answer2": "font-style",
+        "answer3": "text-size",
+        "answer4": "text-style",
+        "right-answer": "font-size"
+
+    },
+
+    {
+        "title": "How will you make all paragraph elements 'RED' in color ?",
+        "answer1": "p.all {color: red;}",
+        "answer2": "p.all {color: #990000;}",
+        "answer3": "all.p {color: #998877;}",
+        "answer4": "p {color: red;}",
+        "right-answer": "p {color: red;}"
+
+    }
+]
